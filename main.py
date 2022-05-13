@@ -14,5 +14,5 @@ if __name__ == '__main__':
     quener.changeAllowanceForDoubtfulAccount(333, "05/26/2022")
     quener.changeAllowanceForDoubtfulAccount(125, "05/29/2022")
     quener.showAllAssets()
-    print("got here")
+    quener.showLog()
 
